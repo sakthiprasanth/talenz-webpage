@@ -1,0 +1,25 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.btn1 {
+  padding: 10px 25px;
+  border: none;
+  font-size: 20px;
+  background-color: #f36a2c;
+  border-radius: 10px;
+  color: white;
+  margin-top: 15px;
+}
+.img-sec {
+  margin-top: 15px;
+}
+.btn1 a {
+  text-decoration: none;
+  color: white;
+}
+.nav-section {
+  background-color: white;
+  position: sticky;
+  top: 0;
+}

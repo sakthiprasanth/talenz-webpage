@@ -1,0 +1,24 @@
+.banner-sec {
+  text-align: center;
+  background-color: #5c2e91;
+  padding: 75px;
+  color: white;
+}
+.banner-sec p {
+  font-size: 40px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.banner-sec .btn2 {
+  padding: 10px 25px;
+  background: #f36a2c;
+  /* color: white; */
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.btn2 a {
+  text-decoration: none;
+  color: white;
+}
